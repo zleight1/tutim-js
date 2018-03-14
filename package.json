@@ -1,0 +1,27 @@
+{
+  "name": "tutim-js",
+  "version": "0.1.0",
+  "description": "Our life is strawberries",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/**/*spec.js --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zleight1/tutim-js.git"
+  },
+  "keywords": [
+    "tutim-js",
+    "strawberry"
+  ],
+  "author": "Zachary Leighton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zleight1/tutim-js/issues"
+  },
+  "homepage": "https://github.com/zleight1/tutim-js#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  }
+}
